@@ -4,3 +4,4 @@
 <img width="930" height="179" alt="ÍCONES" src="https://github.com/user-attachments/assets/e5bab1a9-c511-4968-95b1-e7af9a043ec0" />
 <img width="1350" height="873" alt="TÍTULO" src="https://github.com/user-attachments/assets/d7252a89-3d8a-449a-98ea-010b68dfa124" />
 <img width="722" height="874" alt="LIVRO" src="https://github.com/user-attachments/assets/1eb370eb-cac0-44ec-b28d-4dcd3a06b1e8" />
+<img width="759" height="874" alt="LIVRO 2" src="https://github.com/user-attachments/assets/e01dac46-c117-4dc1-81f3-b30ebbe7d2d7" />
