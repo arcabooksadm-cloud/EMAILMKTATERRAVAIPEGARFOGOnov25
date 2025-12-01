@@ -11,3 +11,4 @@
 <img width="1350" height="1112" alt="LIVRO final" src="https://github.com/user-attachments/assets/eb721176-ff3a-492b-94da-ce87f5c99b8f" />
 <img width="782" height="217" alt="leia mais aqui" src="https://github.com/user-attachments/assets/697720d9-ab01-426b-8f5b-324edeacc34a" />
 
+<img width="759" height="874" alt="LIVRO" src="https://github.com/user-attachments/assets/f0017358-4c24-4714-a319-99528a2d7a5e" />
