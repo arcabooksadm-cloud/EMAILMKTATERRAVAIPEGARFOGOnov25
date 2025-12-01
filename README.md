@@ -14,3 +14,4 @@
 <img width="759" height="874" alt="LIVRO" src="https://github.com/user-attachments/assets/f0017358-4c24-4714-a319-99528a2d7a5e" />
 <img width="1007" height="799" alt="Brilho_Contraste 1" src="https://github.com/user-attachments/assets/95df621e-8f86-4255-8429-dec52706ea6c" />
 <img width="782" height="244" alt="leia mais" src="https://github.com/user-attachments/assets/d53366f6-2e94-4641-b907-7f15059897b4" />
+<img width="782" height="244" alt="leia mais" src="https://github.com/user-attachments/assets/7cf7d0c8-1dd5-4245-85d2-937afb7449f9" />
