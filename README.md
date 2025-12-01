@@ -12,3 +12,4 @@
 <img width="782" height="217" alt="leia mais aqui" src="https://github.com/user-attachments/assets/697720d9-ab01-426b-8f5b-324edeacc34a" />
 
 <img width="759" height="874" alt="LIVRO" src="https://github.com/user-attachments/assets/f0017358-4c24-4714-a319-99528a2d7a5e" />
+<img width="1007" height="799" alt="Brilho_Contraste 1" src="https://github.com/user-attachments/assets/95df621e-8f86-4255-8429-dec52706ea6c" />
