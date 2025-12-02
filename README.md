@@ -15,3 +15,4 @@
 <img width="1007" height="799" alt="Brilho_Contraste 1" src="https://github.com/user-attachments/assets/95df621e-8f86-4255-8429-dec52706ea6c" />
 <img width="782" height="244" alt="leia mais" src="https://github.com/user-attachments/assets/d53366f6-2e94-4641-b907-7f15059897b4" />
 <img width="782" height="244" alt="leia mais" src="https://github.com/user-attachments/assets/7cf7d0c8-1dd5-4245-85d2-937afb7449f9" />
+<img width="782" height="217" alt="saiba mais" src="https://github.com/user-attachments/assets/6b508f67-4a13-4b23-8e1c-1e6eec98fb69" />
